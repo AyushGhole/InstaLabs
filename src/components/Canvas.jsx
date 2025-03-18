@@ -18,7 +18,7 @@ const templates = {
       src: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D",
       height: "50px",
 
-      position: { x: 80, y: 180 },
+      position: { x: 30, y: 180 },
     },
     {
       id: 3,
@@ -32,15 +32,15 @@ const templates = {
       id: 1,
       type: "text",
       content: "My Blog Title",
-      position: { x: 320, y: 100 },
+      position: { x: 220, y: 100 },
     },
     {
       id: 2,
       type: "text",
       content: "This is a sample blog post.",
-      position: { x: 280, y: 180 },
+      position: { x: 180, y: 180 },
     },
-    { id: 3, type: "button", label: "Read More", position: { x: 320, y: 250 } },
+    { id: 3, type: "button", label: "Read More", position: { x: 220, y: 250 } },
   ],
 };
 
