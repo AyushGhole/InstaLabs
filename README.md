@@ -1,12 +1,20 @@
-# React + Vite
+<h1>🔹 Project Overview & Features:</h1> 
+✅ Drag-and-Drop Functionality – Users can add and position elements (Text, Images, Buttons).<br>
+✅ Element Editing Panel – Users can modify text, colors, and labels dynamically.<br>
+✅ Predefined Templates – Ready-made Portfolio & Blog templates for scalability.<br>
+✅ Save & Load Projects – Export layouts as JSON and restore them later.<br>
+✅ Delete & Move Elements – Users can remove elements from the canvas easily.<br>
+✅ File Upload Support – Drag and drop images directly from the system.<br>
+✅ Fully Responsive UI – Works across mobile and desktop.<br>
+✅ Smooth Animations – Enhances UI experience using Framer Motion.<br>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1> 🔹 Tools & Technologies Used:</h1>
+React.js & Vite – Modern frontend framework for fast rendering.<br>
+Tailwind CSS – For a sleek, responsive UI.<br>
+React-DnD – Enables drag-and-drop interactions.<br>
+Framer Motion – For smooth animations and transitions.<br>
+LocalStorage – Saves project data for persistence.<br>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<h1>🔹 Project Repository & Video Demo:</h1> 
+📂 GitHub Repository: https://github.com/AyushGhole/InstaLabs<br>
+📽 Video Demo: https://youtu.be/T8AXYWTNei4
